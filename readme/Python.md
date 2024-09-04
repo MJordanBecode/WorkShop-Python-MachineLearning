@@ -39,7 +39,7 @@ __To install the Python package manager :__
 ```bash
 sudo apt install build-essential libssl-dev libffi-dev python3-dev
 ```
-__Download and extract the sources (Replace X Y Z with the desired version of Python :__
+__Download and extract the sources (Replace X Y Z with the desired version of Python):__
 ```bash
 get https://www.python.org/ftp/python/X.Y.Z/Python-X.Y.Z.tgz
 tar -xf Python-X.Y.Z.tgz
