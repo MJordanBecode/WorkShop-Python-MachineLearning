@@ -63,3 +63,4 @@ __Start a virtual environment:__
 python -m venv myenv
 myenv\Scripts\activate
 ```
+[Intall Flask For the Project](./flask.md)
